@@ -4,4 +4,4 @@
 
 ### Possuímos essas receitas 
 
-		* Estrogonoff de Frango
+		- Estrogonoff de Frango
