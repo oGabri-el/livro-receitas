@@ -2,6 +2,6 @@
 
 *Olá, bem-vindo ao livro de receitas*
 
-		* Estrogonoff de Frango
+		== Estrogonoff de Frango
 		
 		
